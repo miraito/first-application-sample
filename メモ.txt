@@ -1,0 +1,18 @@
+各種　配列設定
+
+衝突判定
+detect_location
+0 : 通れる
+1 : 味方キャラ
+2 : 敵キャラ
+3 : map上障害物
+
+map上のgrid保守配列
+battlemap_location
+[x軸, ｙ軸]
+
+味方キャラ位置情報
+battlemap_location
+味方位置　: [p1],[p2]...
+それ以外 : 0
+

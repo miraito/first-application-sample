@@ -1,0 +1,14 @@
+@font-face {
+  font-family:'Lucida Grande','Hiragino Kaku Gothic ProN','MS P明朝',
+ Meiryo,sans-serif,PixelMplus10;
+  src: url('../font/PixelMplus10-Regular.eot');
+  src: url('../font/PixelMplus10-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../font/PixelMplus10-Regular.woff') format('woff'),                 
+       url('../font/PixelMplus10-Regular.ttf') format('truetype'), 
+}
+ 
+body {
+  background: ;
+  padding: 0;
+  margin: 0;
+}
